@@ -1,0 +1,49 @@
+.inline {
+    border: 1px solid;
+    background-color: rgb(32, 32, 32);
+    width: 1333px;
+    box-shadow: 1px 2px 3px;
+    padding: 15px;
+    display: inline-block;
+}
+body {
+    background-color: rgb(32, 32, 32);
+}
+#a4 {
+    padding-left: 200px;
+    color: #fff;
+}
+#a3 {
+    padding-left: 200px;
+    color: #fff;
+}
+#a2 {
+    padding-left: 200px;
+    color: #fff;
+}
+#a1{
+    padding-left: 200px;
+    color: #fff; 
+}
+.body1 {
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 210px;
+    color: #fff;
+    display: inline-block;
+}
+.body2 {
+    width: 750px;
+    height: 450px;
+    margin-top: 15px;
+    margin-left: 15px;
+    color: #fff;
+    display: inline-block;
+}
+.body3 {
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 210px;
+    color: #fff;
+    display: inline-block;
+}
